@@ -13,10 +13,14 @@ Contents:
 - Based on a Stanford's CS106X class problem
 - Be able to generate sentences of words based off of given texts
 - Create a map utilizing windows and n grams
+- http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1174/assn/ngrams.html
 
 ### wordguesser 
 - Simple terminal program to guess words
 - Used https://github.com/dwyl/english-words for text file of all English words
+
+### blackjack
+- A simple terminal game of blackjack with limited knowledge of blackjack
 
 ### rock, paper, scissors
 - Simple terminal game of rps
