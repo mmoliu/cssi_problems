@@ -28,3 +28,17 @@ All code programmed by mmoliu.
 - Play with either a computer or another local player
 </details>
 
+<details><summary> JavaScript </summary>
+All projects are labs under CSSI's curriculum. Most utilize JS as adding interactions on a webpage. In some cases, all documents were coded by mmoliu, other times, HTML or CSS was provided. README files created by CSSI. 
+
+### Color Buttons
+- Simple program changing colors per lab's instructions  
+
+### Magic 8 Ball
+- Webpage with a magic 8 ball, telling fortunes
+
+### Frog-Hopper DOMination
+- A web-based, simple frog hopper game 
+
+### DOM Quest
+- Program changing the web page per lab's instructions
